@@ -1,0 +1,27 @@
+# Unreal generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE/user files
+.vs/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.VC.db
+*.VC.opendb
+
+# Build artifacts
+*.log
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Local scratch/reference code outside the UE module
+code/
